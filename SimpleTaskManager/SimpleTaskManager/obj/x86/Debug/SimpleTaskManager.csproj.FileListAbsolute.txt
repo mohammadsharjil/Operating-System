@@ -1,0 +1,26 @@
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Form1.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Form1.resources
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\hp\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Form1.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Browsers.resources
