@@ -1,0 +1,20 @@
+C:\Users\hp\Desktop\SRC\MyTaskManager\bin\Debug\MyTaskManager.exe
+C:\Users\hp\Desktop\SRC\MyTaskManager\bin\Debug\MyTaskManager.pdb
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.Kill_List.resources
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.MainClass.resources
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.Properties.Resources.resources
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.RunForm.resources
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.exe
+C:\Users\hp\Desktop\SRC\MyTaskManager\obj\Debug\MyTaskManager.pdb
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.exe
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.pdb
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\bin\Debug\MyTaskManager.exe
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\bin\Debug\MyTaskManager.pdb
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.Kill_List.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.MainClass.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.Properties.Resources.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.RunForm.resources
+C:\Users\hp\Desktop\semesters\Summer 2K16\Operating system(OS)\OS project\SRC\MyTaskManager\obj\Debug\MyTaskManager.csproj.GenerateResource.Cache
